@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭  devops
+- 🌱 I’m currently learning golang
+
++ ![ptoeia](https://komarev.com/ghpvc/?username=ptoeia)
++ ![ptoeia](https://visitor-badge.glitch.me/badge?page_id=ptoeia.profile)
